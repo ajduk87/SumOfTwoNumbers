@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SumOFTwoNumbers/obj/Container/ContainerId.cache
+/SumOFTwoNumbers/obj
+/SumOFTwoNumbers/bin/Debug/net8.0
